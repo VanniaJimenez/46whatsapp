@@ -1,0 +1,150 @@
+/*fotos*/
+.espacio {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: -7%;
+}
+.general {
+	width: 12%;
+	height: 10%;
+}
+
+.espa{
+	margin-left: -3%;
+}
+
+.gral2 {
+	width: 6%;
+	height: 4%;
+}
+.gen {
+	width: 36%;
+	height: 34%;
+	margin: 5%;
+
+}
+.icono {
+	margin: 35.5%;
+}
+.icono2{
+	margin: 28.5%;
+}
+.icono3 {
+	margin: 23%;
+}
+.icono4{
+	margin: 18%;
+}
+.geni {  /*imagen de las bocas, grupo*/
+	width: 16%;
+	height: 14%;
+	margin-left: -3%;
+	margin-top: 2.5%;
+	margin-bottom: 2.2%;
+}
+
+#global {  /*primer S*/
+	height: 597px;
+	width: 100%;
+	overflow-y: scroll ;
+}
+
+#global2{ /*segundo S*/
+	height: 558px;
+	width: 100%;
+	overflow-y: scroll ;
+}
+
+.eee {
+	margin-top: -6.5%;
+}
+.ee {
+	margin-top: -0.3%;
+}
+
+.linea {
+	display: inline-block !important;
+}
+.top {
+	margin-top: -18%;
+	margin-left: 17%;
+}
+.topi{
+	margin-top: -2.7%;
+	margin-left: 14%;
+}
+
+
+
+
+
+
+/*cuerpo*/
+
+.personaje1 {
+	color: #ff8a65
+}
+
+.personaje2 {
+	color:#ad1457 
+}
+
+.remedios {
+	text-align: right !important;
+
+}
+
+.personaje3 {
+	color: #b71c1c;
+}
+.personaje4 {
+	color: #8bc34a;
+}
+.personaje5 {
+	color: #9e9d24;
+}
+.personaje6{
+	color: #795548;
+}
+::-webkit-scrollbar {
+      width: 6px;
+      background-color: gray;
+}
+
+.blanco {
+	background-color: white;
+	border-radius: 15px;
+	margin: 1%;
+	}
+
+.pad {
+	padding: 5%;
+}
+
+.rem {
+	background-image: url(../img/reme.jpg);
+	margin-top: -5%;
+	margin-left: -3%;
+}
+
+.patras {
+	margin-left: -1.5%;
+	width: 103.2%;
+
+	
+}
+
+.carita {
+	margin-top:3% !important;
+	margin-left: 2%;
+	margin-bottom: 3%;
+}
+
+.ss{
+	width: 50%;
+}
+
+.s {
+	width: 50%;
+	margin-left: 48%;
+}
